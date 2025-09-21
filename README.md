@@ -38,4 +38,4 @@ Comprehensive EDA of 145,460 weather observations from 49 Australian stations (2
 - Proper citations & references
 
 **Submission Date:** September 21, 2025
-**Course:** Data Science Fundamentals - EDA Assignment
+**Course:** Exploratory Data Analysis
